@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_131"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/HP.BHAVESH_PATIL/Desktop/jxbrowser-7.5-cross-desktop-win_mac_linux/lib/jxbrowser-7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP.BHAVESH_PATIL/Desktop/jxbrowser-7.5-cross-desktop-win_mac_linux/lib/jxbrowser-javafx-7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP.BHAVESH_PATIL/Desktop/jxbrowser-7.5-cross-desktop-win_mac_linux/lib/jxbrowser-swing-7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP.BHAVESH_PATIL/Desktop/jxbrowser-7.5-cross-desktop-win_mac_linux/lib/jxbrowser-win32-7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP.BHAVESH_PATIL/Desktop/jxbrowser-7.5-cross-desktop-win_mac_linux/lib/jxbrowser-win64-7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP.BHAVESH_PATIL/Desktop/jar_files/jna-5.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
